@@ -1,6 +1,7 @@
 # Spam-Message-check-using-Natural_Language_Processing & Machine-Learning-
 
-This Repository describes about the identification of spam or ham messages using Natural Language Processing & Machine Learning Algorithm. Natural language processing is a subfield of linguistics,which is used for the interactions between computers and human language, in particular how to program computers to process and analyze large amounts of natural language data. Further classification based Machine Learning algorithm was applied in order to predict whether the following messages are spam or else is a ham messages.</n> 
+This Repository describes about the identification of spam or ham messages using Natural Language Processing & Machine Learning Algorithm. Natural language processing is a subfield of linguistics,which is used for the interactions between computers and human language, in particular how to program computers to process and analyze large amounts of natural language data. Further classification based Machine Learning algorithm was applied in order to predict whether the following messages are spam or else is a ham messages.
+Here I have introduced the concepts of Pipeline which is used to help automate machine learning workflows. 
 
 The Steps followed are : 
 1. Loading a tsv files using pandas 
