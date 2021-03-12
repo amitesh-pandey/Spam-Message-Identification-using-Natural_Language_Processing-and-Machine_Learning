@@ -11,3 +11,5 @@ The Steps followed are :
 5. Performing Bag-of-words using TF-IDF 
 6. Creating the Pipeline for vectorization & Machine Learning Algorithm 
 7. Comparative results are predicted between random forest & SVM 
+
+Based on the comparative analysis, it was found that Support Vector Machine shows the higest accuracy rate of 94.64% when compared to Random Forest. 
